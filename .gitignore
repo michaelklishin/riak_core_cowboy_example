@@ -1,0 +1,9 @@
+data
+deps
+ebin
+log
+.DS_Store
+.hosts.erlang
+.project
+.settings/org.erlide.core.prefs
+erlcrash.dump
